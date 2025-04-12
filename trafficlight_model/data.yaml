@@ -1,0 +1,6 @@
+names:
+- traffic_light
+nc: 1
+path: /Users/bagseonghyeon/Documents/traffic_light/model/dataset
+train: /Users/bagseonghyeon/Documents/traffic_light/model/dataset/images/train
+val: /Users/bagseonghyeon/Documents/traffic_light/model/dataset/images/train

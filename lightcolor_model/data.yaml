@@ -1,0 +1,8 @@
+names:
+- green_light
+- yellow_light
+- red_light
+nc: 3
+path: /Users/bagseonghyeon/Documents/traffic_light/augmented
+train: /Users/bagseonghyeon/Documents/traffic_light/augmented/images
+val: /Users/bagseonghyeon/Documents/traffic_light/augmented/images
